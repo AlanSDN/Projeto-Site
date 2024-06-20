@@ -1,9 +1,50 @@
+header {
+
+    background-color: rgb(127, 246, 255);
+    box-shadow: 4px 4px 4px 4px;
+    
+}
+
 body {
 
     background-color: darkcyan;
     font-size: 22pt;
     font-family: cursive;
     text-align: center;
-    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+
+
+h1 {
+    
+    color: darkblue;
+
+}
+
+
+article {
+    
+    border-radius: 18px;
+    background-color: rgb(142, 230, 230);
+    box-shadow: 2px 2px 2px 2px;
+    
+    
+
+}
+
+h2 {
+
+    text-align: center;
+
+}
+
+p {
+
+    text-align: justify;
+    padding: 16px;
 
 }
